@@ -1,6 +1,6 @@
 # ai
 
-# Project1
+# Project1: I am an AI bot.
 ## 메뉴얼
 
 https://m.blog.naver.com/edu-next/222987229188
