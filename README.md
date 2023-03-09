@@ -1,3 +1,7 @@
+# 설문 참여
+
+https://forms.gle/FkoQXXNK26rFQo9x8
+
 # Project1: I am an AI bot.
 ## 메뉴얼
 
