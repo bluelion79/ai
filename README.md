@@ -21,4 +21,8 @@ https://forms.gle/Y53FY8913ByiZBEb9
 
 https://chat.openai.com/auth/login
 
+https://bit.ly/42hxwGf
+
+
+
 
