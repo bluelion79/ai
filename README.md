@@ -15,4 +15,9 @@ https://chat-animator.com/
 
 https://forms.gle/Y53FY8913ByiZBEb9
 
+# Project2: Open AI
+
+## AI Tools
+
+c11.kr/chatgpt
 
