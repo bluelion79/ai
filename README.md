@@ -19,5 +19,6 @@ https://forms.gle/Y53FY8913ByiZBEb9
 
 ## AI Tools
 
-c11.kr/chatgpt
+https://chat.openai.com/auth/login
+
 
