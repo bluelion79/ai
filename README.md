@@ -62,6 +62,10 @@ https://chat.openai.com/auth/login
 
 https://colab.research.google.com/drive/16uLd8ETFn6xYgXUjxw_EDfir4nntLu8e?usp=sharing
 
+## 3. Data Analysis Learning materials
+
+https://www.notion.so/edufly/Data-Analysis-46e6838e6a9b422ca5ea5d427e65e1d4?pvs=4
+
 # Project3: AI Hackathon
 
 
