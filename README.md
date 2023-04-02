@@ -58,6 +58,10 @@ https://www.moralmachine.net/hl/kr
 
 https://chat.openai.com/auth/login
 
+## Colab Notebooks shared by AI Kim
+
+https://colab.research.google.com/drive/16uLd8ETFn6xYgXUjxw_EDfir4nntLu8e?usp=sharing
+
 # Project3: AI Hackathon
 
 
