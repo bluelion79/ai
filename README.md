@@ -109,6 +109,10 @@ https://colab.research.google.com/drive/16uLd8ETFn6xYgXUjxw_EDfir4nntLu8e?usp=sh
 
 https://www.notion.so/edufly/Data-Analysis-46e6838e6a9b422ca5ea5d427e65e1d4?pvs=4
 
+## 4. Lectures
+
+https://www.youtube.com/channel/UCsRP1UhbCU6jwES3qRP_x3Q
+
 # Project3: AI Hackathon
 
 
