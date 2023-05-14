@@ -101,6 +101,8 @@ https://www.moralmachine.net/hl/kr
 
 https://chat.openai.com/auth/login
 
+https://wrtn.ai
+
 ## 2. Colab Notebooks shared by AI Kim
 
 https://colab.research.google.com/drive/16uLd8ETFn6xYgXUjxw_EDfir4nntLu8e?usp=sharing
@@ -116,6 +118,8 @@ https://colab.research.google.com/drive/1h7yU9_IYHvS8af7_vqnOi-jaGd9_LTTB?usp=sh
 https://www.notion.so/edufly/Data-Analysis-46e6838e6a9b422ca5ea5d427e65e1d4?pvs=4
 
 ## 4. Lectures
+
+https://youtube.com/playlist?list=PL3geb_qrBQYfOmGuHtnf0RZMMXaev-Zvr
 
 https://www.youtube.com/channel/UCsRP1UhbCU6jwES3qRP_x3Q
 
