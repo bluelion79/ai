@@ -105,6 +105,12 @@ https://chat.openai.com/auth/login
 
 https://colab.research.google.com/drive/16uLd8ETFn6xYgXUjxw_EDfir4nntLu8e?usp=sharing
 
+https://colab.research.google.com/drive/1h7yU9_IYHvS8af7_vqnOi-jaGd9_LTTB?usp=sharing
+
+당신은 고등학교 프로그래밍 교사다. 파이썬 pandas, matplot, numpy 라이브러리를 활용하여 간단한 데이터 분석을 할 수 있는 프로젝트 과제를 만들고 있다. 학습용 데이터를 만들어서 함께 제공하라. 학습용 데이터와 그 데이터를 활용하여 데이터 분석을 할 수 있는 과제를 만들고 모범 답안도 작성하라.
+
+학습용 데이터를 만들어서 제공하고, 파이썬 코드도 작성하라.
+
 ## 3. Data Analysis Learning materials
 
 https://www.notion.so/edufly/Data-Analysis-46e6838e6a9b422ca5ea5d427e65e1d4?pvs=4
