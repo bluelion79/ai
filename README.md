@@ -131,6 +131,9 @@ https://drive.google.com/drive/folders/100oKgNUVBL0AUvkSJj4lELdyyTjYX_yb
 
 https://youtu.be/ylXnizVZFuc?list=PLdSz724zUrUj2k6Pzmg4PXHS0T_DhJpPg
 
+## 5. 과제 제출방
+
+https://forms.gle/uf8Wcjn6ckjW2CmP8
 
 # Project3: AI Hackathon
 
