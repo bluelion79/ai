@@ -68,6 +68,12 @@ https://youtu.be/9wH-mswU9Sw
 27:17 최종적으로 LLM이 스마트폰에서도 돌아갈까?
 
 
+# 참고 자료
+
+## 1. 코랩 활용 구글 번역기 코드 만들기
+
+https://youtu.be/tSGXcNaLr-4
+
 
 
 # Project1: I am an AI bot.
