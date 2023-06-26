@@ -74,6 +74,9 @@ https://youtu.be/9wH-mswU9Sw
 
 https://youtu.be/tSGXcNaLr-4
 
+## 2. 다양한 인공지능 도구
+
+https://jw-automation.com/aiworld
 
 
 # Project1: I am an AI bot.
