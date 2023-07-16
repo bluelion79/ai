@@ -78,6 +78,10 @@ https://youtu.be/tSGXcNaLr-4
 
 https://jw-automation.com/aiworld
 
+## 3. 파이썬으로 다루는 인공지능 자료
+
+https://docs.google.com/spreadsheets/d/1cXnH-pAx49Q2hivPxCcv4sfoasJNy8vmxKiSWYCUeVI/edit#gid=899267460
+
 
 # Project1: I am an AI bot.
 ## 1. 메뉴얼
