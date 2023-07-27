@@ -82,6 +82,13 @@ https://jw-automation.com/aiworld
 
 https://docs.google.com/spreadsheets/d/1cXnH-pAx49Q2hivPxCcv4sfoasJNy8vmxKiSWYCUeVI/edit#gid=899267460
 
+## 4. 코랩 활용 선형회귀 분석 자료
+
+https://colab.research.google.com/drive/1JJXe8CznTLgH9Y6CtRHQepT-_AovWJ31?usp=sharing
+
+## 5. 이상기후 데이터 분석 자료
+
+https://colab.research.google.com/drive/1zvV6-C64-EQzC8JPNHp2lQ1-i9frzvN5?usp=sharing
 
 # Project1: I am an AI bot.
 ## 1. 메뉴얼
