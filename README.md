@@ -90,6 +90,11 @@ https://colab.research.google.com/drive/1JJXe8CznTLgH9Y6CtRHQepT-_AovWJ31?usp=sh
 
 https://colab.research.google.com/drive/1zvV6-C64-EQzC8JPNHp2lQ1-i9frzvN5?usp=sharing
 
+## 6. 바이오파이썬을 이용한 코로나바이러스 염기서열 분석
+
+https://m.blog.naver.com/ulsancoding/223178866505
+
+
 # Project1: I am an AI bot.
 ## 1. 메뉴얼
 
