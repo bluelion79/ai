@@ -175,6 +175,8 @@ https://forms.gle/uf8Wcjn6ckjW2CmP8
 
 # Project3: AI Hackathon
 
+https://youtu.be/DBP6pfRRWnQ
+
 # 1학기 자기평가서
 
 https://forms.gle/AVeghQiqKuVFfG4p8
