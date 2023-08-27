@@ -1,10 +1,17 @@
 # 설문
 
-https://docs.google.com/forms/d/e/1FAIpQLScnowy5viC3uw5yLsCXWdqBSGKL3rhXTD4LgglQEspSYaMtMQ/viewform
 
 
 
 # 참고 자료
+
+https://youtu.be/hn00sIKLzAM?feature=shared
+
+AI와 로보틱스에 대한 쉬운 설명
+
+
+
+
 
 https://youtu.be/pDNPew0LuD0
 
