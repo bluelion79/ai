@@ -10,6 +10,10 @@ https://forms.gle/F9j6n27K8DQ4ayFg6
 
 # 참고 자료
 
+https://m.blog.naver.com/550sn/223254993104
+
+오렌지로 타이타닉 사망자 데이터 분석
+
 https://youtu.be/hn00sIKLzAM?feature=shared
 
 AI와 로보틱스에 대한 쉬운 설명
