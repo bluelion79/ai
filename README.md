@@ -116,6 +116,11 @@ https://colab.research.google.com/drive/1zvV6-C64-EQzC8JPNHp2lQ1-i9frzvN5?usp=sh
 
 https://m.blog.naver.com/ulsancoding/223178866505
 
+## 7. 공공데이터를 활용 챗GPT로 데이터분석부터 기획서초안까지 한방에 해결하기
+
+https://youtu.be/i0Jjp4FmWhQ
+
+
 
 # Project1: I am an AI bot.
 ## 1. 메뉴얼
